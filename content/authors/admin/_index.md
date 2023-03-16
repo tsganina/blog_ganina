@@ -1,47 +1,45 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ганина Таисия
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ганина
+last_name: Таисия
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка направления "Компьютерные и Информационные Науки"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский Университет Дружбы Народов (РУДН)
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Я студентка Российского Университета Дружбы Народов, поступила на направление "Компьютерные и Информационные Науки" в 2022 году.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Веб-дизайн
+  - Видеомонтаж
+  - Программирование
+  - Написание стихов и рассказов
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Компьютерные и Информационные Науки
+      institution: Российский Университет Дружбы Народов
+      year: 2026
+    - course: Среднее общее образование
+      institution: Гимназия №1558 имени Росалии де Кастро
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +78,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ганина Таисия - студентка Российского Университета Дружбы Народов, поступила на направление "Компьютерные и Информационные Науки" в 2022 году.
+{style="text-align: justify;"}
+
+✨✨✨
+{style="text-align: center;"}
+
+До этого я училась в гимназии №1558 имени [Росалии де Кастро](https://gym1558sv.mskobr.ru/), поэтому владею двумя иностранными языками - испанским и английским. Также у меня есть некоторый опыт в написании сайтов и создании чат-ботов. Моё хобби - видеомонтаж. Я делаю буктрейлеры - ролики для продвижения книг - и публикую их на [Youtube](https://www.youtube.com/@user-bv4hw1cb3d). Также мне очень нравится писать [стихи и рассказы](https://www.litres.ru/author/taisiya-ganina/). Некоторые из них я публикую на интернет-ресурсах.
 {style="text-align: justify;"}
